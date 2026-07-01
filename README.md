@@ -53,3 +53,9 @@ A modular navigation package implementing AMCL localization, NavFn global planni
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/abhishek-kumar-singh-34552b275
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek1010006&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek1010006&layout=compact&theme=tokyonight)
