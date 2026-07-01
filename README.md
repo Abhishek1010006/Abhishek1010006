@@ -2,21 +2,24 @@
 
 Computer Science and Engineering undergraduate at Birla Institute of Technology, Mesra.
 
-Interested in:
+I am interested in robotics, autonomous systems, and drone technology. I enjoy building projects that combine software and hardware, particularly in robotics, UAVs, and intelligent systems.
 
-- Robotics and Autonomous Systems
+## Areas of Interest
+
 - ROS 2 and Robot Simulation
 - FPV Drone Development
 - Ground Control Stations (GCS)
 - Computer Vision
 - Autonomous Navigation
+- Multi-Robot Systems
+- MAVLink Communication and Mission Planning
 
 ## Current Work
 
-- Tactical Ground Control Station for UAV operations
-- ROS 2 navigation and simulation projects
-- FPV drone development and documentation
-- Computer vision for robotics applications
+- Developing a Tactical Ground Control Station for UAV operations.
+- Building and documenting FPV drone platforms.
+- Exploring ROS 2 navigation and autonomous systems.
+- Learning computer vision for robotics applications.
 
 ## Technologies
 
@@ -26,15 +29,27 @@ Interested in:
 
 **Drone Technologies:** MAVLink, ArduPilot, Betaflight
 
-**Tools:** Linux, Ubuntu, Git, Electron
+**Tools:** Linux, Ubuntu, Git, GitHub, Electron
 
 ## Featured Projects
 
 ### Tactical Ground Control Station
-Ground Control Station for real-time monitoring and coordination of UAVs.
+A full-stack Ground Control Station for real-time monitoring and coordination of multiple UAVs, featuring mission planning, telemetry visualization, and offline map support.
 
 ### Mobile Manipulator Robot Simulation
-ROS 2 Jazzy and Gazebo simulation of a differential drive mobile manipulator.
+A ROS 2 Jazzy and Gazebo simulation of a differential drive mobile manipulator with a 2-DOF robotic arm.
 
 ### ROS2 Autonomous Navigation
-Implementation of AMCL localization, NavFn planning, DWB local planner, and Behavior Tree navigation.
+A modular navigation package implementing AMCL localization, NavFn global planning, DWB local planning, and Behavior Tree navigation.
+
+## Currently Learning
+
+- Navigation2 (Nav2)
+- Computer Vision
+- Autonomous Navigation
+- Drone Swarm Systems
+- Multi-Robot Coordination
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/abhishek-kumar-singh-34552b275
