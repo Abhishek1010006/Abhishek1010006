@@ -52,7 +52,7 @@ A modular navigation package implementing AMCL localization, NavFn global planni
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/abhishek-kumar-singh-34552b275
+- LinkedIn: www.linkedin.com/in/abhishek-kumar-singh1006
 
 ## GitHub Statistics
 
