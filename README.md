@@ -1,3 +1,9 @@
+<h1 align="center">Abhishek Kumar Singh</h1>
+<p align="center">
+Computer Science and Engineering Undergraduate • BIT Mesra<br>
+Robotics • ROS 2 • FPV Drones • Ground Control Stations • Computer Vision
+</p>
+
 # Abhishek Kumar Singh
 
 Computer Science and Engineering undergraduate at Birla Institute of Technology, Mesra.
