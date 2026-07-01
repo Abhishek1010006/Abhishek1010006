@@ -4,12 +4,6 @@ Computer Science and Engineering Undergraduate • BIT Mesra<br>
 Robotics • ROS 2 • FPV Drones • Ground Control Stations • Computer Vision
 </p>
 
-# Abhishek Kumar Singh
-
-Computer Science and Engineering undergraduate at Birla Institute of Technology, Mesra.
-
-I am interested in robotics, autonomous systems, and drone technology. I enjoy building projects that combine software and hardware, particularly in robotics, UAVs, and intelligent systems.
-
 ## Areas of Interest
 
 - ROS 2 and Robot Simulation
