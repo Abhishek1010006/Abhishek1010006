@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=Abhishek1010006&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/badge/BIT%20Mesra-CSE%20Undergrad-blue?style=for-the-badge" />
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=650&lines=Building+Ground+Control+Stations+for+UAV+Swarms;ROS+2+%7C+Gazebo+%7C+Autonomous+Navigation;FPV+Drone+Developer+%26+Embedded+Systems+Enthusiast;Currently%3A+ISRO+BAH2026+Hackathon+%E2%80%94+Team+Suryavansh" />
 
@@ -17,6 +17,8 @@
 <br/>
 
 ## About Me
+
+<div align="center">
 
 ```yaml
 name: Abhishek Kumar Singh
@@ -27,13 +29,17 @@ currently_building: Tactical Ground Control Station for multi-UAV swarm ops
 currently_competing: ISRO Bharatiya Antariksh Hackathon 2026 (Team Suryavansh)
 ```
 
+</div>
+
 <br/>
 
 ## Areas of Interest
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **Robotics & Simulation**
 - ROS 2 (Jazzy) & Gazebo simulation
@@ -46,7 +52,7 @@ currently_competing: ISRO Bharatiya Antariksh Hackathon 2026 (Team Suryavansh)
 - ArduPilot / Betaflight firmware
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **Ground Control Stations**
 - Real-time telemetry visualization
@@ -62,16 +68,21 @@ currently_competing: ISRO Bharatiya Antariksh Hackathon 2026 (Team Suryavansh)
 </tr>
 </table>
 
+</div>
+
 <br/>
 
 ## Current Work
 
+<div align="center">
+
 | Project | Status |
 |---|---|
-| **Tactical Ground Control Station** — full-stack multi-UAV swarm GCS | 🟢 Active |
-| **ISRO BAH2026** — infrared image colorization (Real-ESRGAN + LoFTR + Pix2Pix GAN) | 🟢 Active |
-| **FPV Drone Platform** — custom racing build, documented end-to-end | 🟡 Ongoing |
-| **ROS 2 Nav Stack** — AMCL, NavFn, DWB, Behavior Trees | 🟡 Ongoing |
+| **Tactical Ground Control Station** — full-stack multi-UAV swarm GCS | 🟢 Completed |
+| **V-Tail Pusher UAV** — fixed-wing V-tail pusher build & flight testing | 🟢 Completed |
+| **ROS 2 Nav Stack** — AMCL, NavFn, DWB, Behavior Trees | 🟢 Completed |
+
+</div>
 
 <br/>
 
@@ -83,17 +94,23 @@ currently_competing: ISRO Bharatiya Antariksh Hackathon 2026 (Team Suryavansh)
 <br/>
 <img src="https://skillicons.dev/icons?i=python,cpp,js,bash" />
 
+<br/>
+
 **Robotics & Simulation**
 <br/>
 <img src="https://skillicons.dev/icons?i=ros,opencv" />
 <img src="https://img.shields.io/badge/Gazebo-black?style=for-the-badge&logo=gazebo&logoColor=white" />
 <img src="https://img.shields.io/badge/RViz-black?style=for-the-badge" />
 
+<br/>
+
 **Drone & Flight Systems**
 <br/>
 <img src="https://img.shields.io/badge/MAVLink-0088CC?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ArduPilot-1D3557?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Betaflight-FF6600?style=for-the-badge" />
+
+<br/>
 
 **Tools & Platforms**
 <br/>
@@ -105,9 +122,11 @@ currently_competing: ISRO Bharatiya Antariksh Hackathon 2026 (Team Suryavansh)
 
 ## Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### Tactical GCS
 Full-stack Ground Control Station for real-time multi-UAV monitoring & coordination — mission planning, live telemetry, offline mapping.
@@ -117,24 +136,42 @@ Full-stack Ground Control Station for real-time multi-UAV monitoring & coordinat
 [**View Repo →**](https://github.com/Abhishek1010006/Tactical-Ground-Control-Station)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+### V-Tail Pusher UAV
+Design, build, and flight testing of a fixed-wing V-tail pusher UAV — airframe configuration, servo mixing, and autonomous mission capability.
+
+`ArduPilot` `MAVLink` `Fixed-Wing`
+
+[**View Repo →**](https://github.com/Abhishek1010006/V-tail-pusher-UAV-)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### Mobile Manipulator
 ROS 2 Jazzy + Gazebo simulation of a differential-drive mobile manipulator with a 2-DOF robotic arm.
 
 `ROS 2` `Gazebo` `URDF`
 
+[**View Repo →**](https://github.com/Abhishek1010006/Mobile-Manipulator-Robot-Simulation)
+
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### Autonomous Nav Stack
 Modular navigation package — AMCL localization, NavFn global planning, DWB local planning, Behavior Tree logic.
 
 `ROS 2` `Nav2` `SLAM`
 
+[**View Repo →**](https://github.com/Abhishek1010006/ros2-autonomous-navigation)
+
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -155,12 +192,14 @@ Modular navigation package — AMCL localization, NavFn global planning, DWB loc
 ## GitHub Statistics
 
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Abhishek1010006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.demolab.com/?user=Abhishek1010006&theme=tokyonight&hide_border=true" height="165"/>
-</div>
 
-<div align="center">
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek1010006&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
 </div>
 
 <br/>
@@ -171,6 +210,9 @@ Modular navigation package — AMCL localization, NavFn global planning, DWB loc
 
 <a href="https://www.linkedin.com/in/abhishek-kumar-singh1006">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:abhishekkumarsngh000@gmail.com">
+  <img src="https://img.shields.io/badge/Connect_on_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
