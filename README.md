@@ -8,6 +8,8 @@
 <img src="https://komarev.com/ghpvc/?username=Abhishek1010006&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/badge/BIT%20Mesra-CSE%20Undergrad-blue?style=for-the-badge" />
 
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&height=50&lines=Building+Ground+Control+Stations+for+UAV+Swarms;ROS+2+%7C+Gazebo+%7C+Autonomous+Navigation;FPV+Drone+Developer+%26+Embedded+Systems+Enthusiast;ISRO+BAH2026+Hackathon+%E2%80%94+Team+Suryavansh" width="800" height="50" />
 
 </div>
