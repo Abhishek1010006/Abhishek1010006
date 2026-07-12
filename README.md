@@ -19,9 +19,18 @@
 ## About Me
 
 <div align="center">
+<table>
+<tr>
+<td align="center" width="700">
+<br/>
 
-Computer Science & Engineering undergraduate at **Birla Institute of Technology (BIT) Mesra, Ranchi**, focused on robotics, UAV systems, and ground control software. Currently building a **Tactical Ground Control Station** for multi-UAV swarm operations, and competing in **ISRO's Bharatiya Antariksh Hackathon 2026** with Team Suryavansh.
+Computer Science & Engineering undergraduate at **Birla Institute of Technology (BIT) Mesra, Ranchi**, focused on robotics, UAV systems, and ground control software.
+Currently building a **Tactical Ground Control Station** for multi-UAV swarm operations, and competing in **ISRO's Bharatiya Antariksh Hackathon 2026** with Team Suryavansh.
 
+<br/>
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
@@ -173,10 +182,10 @@ Modular navigation package — AMCL localization, NavFn global planning, DWB loc
 <div align="center">
 
 ![Nav2](https://img.shields.io/badge/Navigation2-Nav2-orange?style=flat-square)
-![CV](https://img.shields.io/badge/Computer_Vision-blue?style=flat-square)
-![Autonomy](https://img.shields.io/badge/Autonomous_Navigation-green?style=flat-square)
-![Swarm](https://img.shields.io/badge/Drone_Swarm_Systems-purple?style=flat-square)
-![MultiRobot](https://img.shields.io/badge/Multi--Robot_Coordination-red?style=flat-square)
+![CV](https://img.shields.io/badge/Computer%20Vision-blue?style=flat-square)
+![Autonomy](https://img.shields.io/badge/Autonomous%20Navigation-green?style=flat-square)
+![Swarm](https://img.shields.io/badge/Drone%20Swarm%20Systems-purple?style=flat-square)
+![MultiRobot](https://img.shields.io/badge/Multi--Robot%20Coordination-red?style=flat-square)
 
 </div>
 
@@ -212,10 +221,10 @@ Modular navigation package — AMCL localization, NavFn global planning, DWB loc
 <div align="center">
 
 <a href="https://www.linkedin.com/in/abhishek-kumar-singh1006">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:abhishekkumarsngh000@gmail.com">
-  <img src="https://img.shields.io/badge/Connect_on_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Connect%20on%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
