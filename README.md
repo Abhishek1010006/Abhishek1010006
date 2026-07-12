@@ -15,6 +15,7 @@
 
 </div>
 
+<br/>
 
 ## About Me
 
@@ -25,14 +26,14 @@
 
 <br/>
 
-```yaml
-Name: Abhishek Kumar Singh
+<pre style="font-size:16px; line-height:1.6;">
+<code>Name: Abhishek Kumar Singh
 Institution: BIT Mesra, Ranchi
 Degree: Computer Science & Engineering (Undergraduate)
 Focus: Robotics, UAV Systems, Ground Control Software
 Currently Building: Tactical Ground Control Station (Multi-UAV Swarm Ops)
-Also Exploring: Competitive Programming, Embedded Systems, Autonomous Flight
-```
+Also Exploring: Competitive Programming, Embedded Systems, Autonomous Flight</code>
+</pre>
 
 <br/>
 
