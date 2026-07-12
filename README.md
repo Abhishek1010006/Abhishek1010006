@@ -19,18 +19,16 @@
 ## About Me
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="700">
-<br/>
 
-Computer Science & Engineering undergraduate at **Birla Institute of Technology (BIT) Mesra, Ranchi**, focused on robotics, UAV systems, and ground control software.
-Currently building a **Tactical Ground Control Station** for multi-UAV swarm operations, and competing in **ISRO's Bharatiya Antariksh Hackathon 2026** with Team Suryavansh.
+```yaml
+Name: Abhishek Kumar Singh
+Institution: BIT Mesra, Ranchi
+Degree: Computer Science & Engineering (Undergraduate)
+Focus: Robotics, UAV Systems, Ground Control Software
+Currently Building: Tactical Ground Control Station (Multi-UAV Swarm Ops)
+Currently Competing: ISRO Bharatiya Antariksh Hackathon 2026, Team Suryavansh
+```
 
-<br/>
-</td>
-</tr>
-</table>
 </div>
 
 <br/>
