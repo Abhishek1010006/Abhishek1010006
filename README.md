@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=650&lines=Building+Ground+Control+Stations+for+UAV+Swarms;ROS+2+%7C+Gazebo+%7C+Autonomous+Navigation;FPV+Drone+Developer+%26+Embedded+Systems+Enthusiast;Currently%3A+ISRO+BAH2026+Hackathon+%E2%80%94+Team+Suryavansh" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=1000&height=50&lines=Building+Ground+Control+Stations+for+UAV+Swarms;ROS+2+%7C+Gazebo+%7C+Autonomous+Navigation;FPV+Drone+Developer+%26+Embedded+Systems+Enthusiast;ISRO+BAH2026+Hackathon+%E2%80%94+Team+Suryavansh" />
 
 </div>
 
@@ -20,14 +20,7 @@
 
 <div align="center">
 
-```yaml
-name: Abhishek Kumar Singh
-role: Computer Science & Engineering Undergraduate
-university: Birla Institute of Technology (BIT) Mesra, Ranchi
-focus: [Robotics, UAV Systems, ROS 2, Computer Vision, Ground Control Stations]
-currently_building: Tactical Ground Control Station for multi-UAV swarm ops
-currently_competing: ISRO Bharatiya Antariksh Hackathon 2026 (Team Suryavansh)
-```
+Computer Science & Engineering undergraduate at **Birla Institute of Technology (BIT) Mesra, Ranchi**, focused on robotics, UAV systems, and ground control software. Currently building a **Tactical Ground Control Station** for multi-UAV swarm operations, and competing in **ISRO's Bharatiya Antariksh Hackathon 2026** with Team Suryavansh.
 
 </div>
 
@@ -193,12 +186,22 @@ Modular navigation package — AMCL localization, NavFn global planning, DWB loc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishek1010006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=Abhishek1010006&theme=tokyonight&hide_border=true" height="165"/>
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abhishek1010006&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek1010006&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://github-readme-streak-stats.demolab.com/?user=Abhishek1010006&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek1010006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="45%"/>
 
 </div>
 
