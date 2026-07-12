@@ -15,8 +15,6 @@
 
 </div>
 
-<br/>
-
 ## About Me
 
 <div align="center">
@@ -41,8 +39,6 @@ Also Exploring: Competitive Programming, Embedded Systems, Autonomous Flight</co
 </tr>
 </table>
 </div>
-
-<br/>
 
 ## Areas of Interest
 
@@ -81,8 +77,6 @@ Also Exploring: Competitive Programming, Embedded Systems, Autonomous Flight</co
 
 </div>
 
-<br/>
-
 ## Current Work
 
 <div align="center">
@@ -95,7 +89,6 @@ Also Exploring: Competitive Programming, Embedded Systems, Autonomous Flight</co
 
 </div>
 
-<br/>
 
 ## Tech Stack
 
@@ -129,7 +122,6 @@ Also Exploring: Competitive Programming, Embedded Systems, Autonomous Flight</co
 
 </div>
 
-<br/>
 
 ## Featured Projects
 
