@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="Abhishek Kumar Singh - Robotics, UAV Systems, and Computer Vision" />
-
+<img src="./outputs/assets/profile-header.svg" width="100%" alt="Abhishek Kumar Singh - Robotics, UAV Systems, and Computer Vision" />
 <br />
 
 <a href="https://www.linkedin.com/in/abhishek-kumar-singh1006"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
