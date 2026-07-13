@@ -24,18 +24,18 @@
 
 <br/>
 
-<pre style="font-size:15px; line-height:1.6;">
-<code><span style="color:#c586c0;">class</span> <span style="color:#4ec9b0;">AbhishekKumarSingh</span>:
-    <span style="color:#c586c0;">def</span> <span style="color:#dcdcaa;">__init__</span>(<span style="color:#9cdcfe;">self</span>):
-        <span style="color:#9cdcfe;">self</span>.role     = <span style="color:#ce9178;">"CSE @ BIT Mesra | Robotics & UAV Systems"</span>
-        <span style="color:#9cdcfe;">self</span>.building = [<span style="color:#ce9178;">"Tactical Ground Control Station — multi-UAV swarm ops"</span>,
-                       <span style="color:#ce9178;">"V-Tail Pusher UAV — fixed-wing flight testing"</span>]
-        <span style="color:#9cdcfe;">self</span>.stack    = [<span style="color:#ce9178;">"ROS 2"</span>, <span style="color:#ce9178;">"Gazebo"</span>, <span style="color:#ce9178;">"Python"</span>, <span style="color:#ce9178;">"MAVLink"</span>, <span style="color:#ce9178;">"OpenCV"</span>]
-        <span style="color:#9cdcfe;">self</span>.philosophy = <span style="color:#ce9178;">"Fly first, optimize later."</span>
+```python
+class AbhishekKumarSingh:
+    def __init__(self):
+        self.role     = "CSE @ BIT Mesra | Robotics & UAV Systems"
+        self.building = ["Tactical Ground Control Station — multi-UAV swarm ops",
+                         "V-Tail Pusher UAV — fixed-wing flight testing"]
+        self.stack    = ["ROS 2", "Gazebo", "Python", "MAVLink", "OpenCV"]
+        self.philosophy = "Fly first, optimize later."
 
-    <span style="color:#c586c0;">def</span> <span style="color:#dcdcaa;">say_hi</span>(<span style="color:#9cdcfe;">self</span>):
-        <span style="color:#dcdcaa;">print</span>(<span style="color:#ce9178;">"Let's build something that flies."</span>)</code>
-</pre>
+    def say_hi(self):
+        print("Let's build something that flies.")
+```
 
 <br/>
 
@@ -153,7 +153,7 @@ Modular navigation package — AMCL localization, NavFn global planning, DWB loc
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abhishek1010006&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=Abhishek1010006&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -167,8 +167,8 @@ Modular navigation package — AMCL localization, NavFn global planning, DWB loc
 
 <br/><br/>
 
-<a href="https://github-readme-stats.vercel.app/api?username=Abhishek1010006&show_icons=true&theme=tokyonight&hide_border=true"><img src="https://img.shields.io/badge/GitHub%20Stats-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek1010006&layout=compact&theme=tokyonight&hide_border=true"><img src="https://img.shields.io/badge/Top%20Languages-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github-stats-extended.vercel.app/api?username=Abhishek1010006&show_icons=true&theme=tokyonight&hide_border=true"><img src="https://img.shields.io/badge/GitHub%20Stats-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=Abhishek1010006&layout=compact&theme=tokyonight&hide_border=true"><img src="https://img.shields.io/badge/Top%20Languages-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
