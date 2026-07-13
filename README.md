@@ -40,14 +40,14 @@ class AbhishekKumarSingh:
 <tr>
 <td width="50%" valign="top">
 
-- **Working on computer vision** image enhancement, colorization, and segmentation with U-Net, DeepLab, TensorRT, and ONNX.
-- **Deep interest in autonomous flight** SLAM, Nav2, mission planning, and multi-robot coordination.
+- **Working on computer vision** - image enhancement, colorization, and segmentation with U-Net, DeepLab, TensorRT, and ONNX.
+- **Deep interest in autonomous flight** - SLAM, Nav2, mission planning, and multi-robot coordination.
 
 </td>
 <td width="50%" valign="top">
 
-- **Building UAV systems**  telemetry, sensor fusion, fixed-wing platforms, and ground control station architecture.
-- **Open to collaborations** ROS 2, Gazebo, MAVLink, autonomous navigation, and multi-UAV software.
+- **Building UAV systems** - telemetry, sensor fusion, fixed-wing platforms, and ground control station architecture.
+- **Open to collaborations** - ROS 2, Gazebo, MAVLink, autonomous navigation, and multi-UAV software.
 
 </td>
 </tr>
@@ -173,12 +173,21 @@ Modular navigation package with AMCL localization, NavFn global planning, DWB lo
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" alt="Abhishek1010006 GitHub stats" />
-<img src="https://streak-stats.demolab.com/?user=Abhishek1010006&theme=dark&hide_border=false" width="48%" alt="GitHub streak stats" />
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%" alt="Abhishek1010006 GitHub stats" />
+</td>
+<td width="50%" align="center">
+<img src="https://streak-stats.demolab.com/?user=Abhishek1010006&theme=dark&hide_border=false" width="100%" alt="GitHub streak stats" />
+</td>
+</tr>
+</table>
 
-<br /><br />
+<br />
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="42%" alt="Most used languages" />
+
 <!-- GitHub Trends LOC card
 This service requires signup first: https://api.githubtrends.io/auth/signup/public
 After signup, uncomment this block if the image endpoint renders for your account.
@@ -209,6 +218,10 @@ After signup, uncomment this block if the image endpoint renders for your accoun
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,55:1f2937,100:111827&height=95&section=footer" width="100%" alt="Footer" />
 
 </div>
+
+
+
+
 
 
 
