@@ -216,8 +216,8 @@ Modular navigation package — AMCL localization, NavFn global planning, DWB loc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishek1010006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="165"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=Abhishek1010006&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek1010006&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishek1010006&theme=tokyonight" width="48%"/>
 
 <br/>
 
