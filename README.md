@@ -1,7 +1,10 @@
 <div align="center">
 
-<img src="./outputs/assets/profile-header.png" width="100%" alt="Abhishek Kumar Singh - Robotics, UAV Systems, and Computer Vision" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./outputs/assets/profile-header-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="./outputs/assets/profile-header-light.png" />
+  <img src="./outputs/assets/profile-header-dark.png" width="100%" alt="Abhishek Kumar Singh - Robotics, UAV Systems, and Computer Vision" />
+</picture>
 <a href="https://www.linkedin.com/in/abhishek-kumar-singh1006"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:abhishekkumarsngh000@gmail.com"><img src="https://img.shields.io/badge/CONNECT-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Abhishek1010006"><img src="https://img.shields.io/github/followers/Abhishek1010006?label=FOLLOW&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" /></a>
