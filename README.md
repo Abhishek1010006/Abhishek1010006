@@ -42,15 +42,7 @@ class AbhishekKumarSingh:
         print("Let's build something that flies.")
 ```
 
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td align="left" width="850">
+---
 
 **I'm currently working on**
 Computer Vision — image enhancement, colorization, and segmentation (U-Net, DeepLab) with edge deployment on TensorRT/ONNX
@@ -78,6 +70,11 @@ I'd rather debug a flight controller at 2 AM than sleep through a crash log
 <br/>
 
 ## Areas of Interest
+
+<div align="center">
+<sub>Where I focus my time, split across research, hardware, and software</sub>
+</div>
+<br/>
 
 <div align="center">
 <table>
@@ -134,29 +131,26 @@ I'd rather debug a flight controller at 2 AM than sleep through a crash log
 <div align="center">
 
 **Languages**
-<br/><br/>
+<br/>
 <img src="https://skillicons.dev/icons?i=python,cpp,js,bash" />
-
-<br/><br/>
+<br/>
 
 **Robotics & Simulation**
-<br/><br/>
+<br/>
 <img src="https://skillicons.dev/icons?i=ros,opencv" />
 <img src="https://img.shields.io/badge/Gazebo-black?style=for-the-badge&logo=gazebo&logoColor=white" />
 <img src="https://img.shields.io/badge/RViz-black?style=for-the-badge" />
-
-<br/><br/>
+<br/>
 
 **Drone & Flight Systems**
-<br/><br/>
+<br/>
 <img src="https://img.shields.io/badge/MAVLink-0088CC?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ArduPilot-1D3557?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Betaflight-FF6600?style=for-the-badge" />
-
-<br/><br/>
+<br/>
 
 **Tools & Platforms**
-<br/><br/>
+<br/>
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,electron,flask" />
 
 </div>
@@ -218,20 +212,6 @@ Modular navigation package — AMCL localization, NavFn global planning, DWB loc
 
 <br/>
 
-## Currently Learning
-
-<div align="center">
-
-![Nav2](https://img.shields.io/badge/Navigation2-Nav2-orange?style=flat-square)
-![CV](https://img.shields.io/badge/Computer_Vision-blue?style=flat-square)
-![Autonomy](https://img.shields.io/badge/Autonomous_Navigation-green?style=flat-square)
-![Swarm](https://img.shields.io/badge/Drone_Swarm_Systems-purple?style=flat-square)
-![MultiRobot](https://img.shields.io/badge/Multi--Robot_Coordination-red?style=flat-square)
-
-</div>
-
-<br/>
-
 ## GitHub Analytics
 
 <div align="center">
@@ -243,7 +223,7 @@ Modular navigation package — AMCL localization, NavFn global planning, DWB loc
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek1010006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek1010006&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 
@@ -269,20 +249,13 @@ Modular navigation package — AMCL localization, NavFn global planning, DWB loc
 
 <br/>
 
-## Contact
+## Closing
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abhishek-kumar-singh1006">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:abhishekkumarsngh000@gmail.com">
-  <img src="https://img.shields.io/badge/Connect_on_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
 <i>Building the systems that let machines fly themselves — one node at a time.</i>
+<br/>
+<sub>Reach me via the LinkedIn / Mail buttons at the top ↑</sub>
 
 <br/><br/>
 
