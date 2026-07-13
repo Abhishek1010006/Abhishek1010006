@@ -17,7 +17,7 @@
 
 ---
 
-## &#128171; About Me
+## About Me
 
 <table>
 <tr>
@@ -34,69 +34,24 @@ class AbhishekKumarSingh:
             "Computer vision pipelines for autonomous perception",
         ]
         self.stack = ["ROS 2", "Gazebo", "Python", "MAVLink", "OpenCV"]
+        self.philosophy = "Build, test, learn, and fly better."
 
-    def mission(self):
-        return "Build systems that help machines fly themselves."
+    def say_hi(self):
+        print("Let's build something that flies.")
 ```
 
 </td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Currently Working On
-
-Computer Vision: image enhancement, colorization, and segmentation with U-Net and DeepLab, moving toward TensorRT/ONNX edge deployment.
-
-</td>
-<td width="50%" valign="top">
-
-### Looking To Collaborate On
-
-Autonomous flight software: SLAM, Nav2, mission planning, and multi-robot coordination projects.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Looking For Help With
-
-Sensor fusion and real-time telemetry pipelines for multi-UAV systems.
-
-</td>
-<td width="50%" valign="top">
-
-### Currently Learning
-
-Deep Learning foundations for autonomous perception and vision-based navigation.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Ask Me About
-
-ROS 2, Gazebo, MAVLink, fixed-wing UAV design, and ground control station architecture.
-
-</td>
-<td width="50%" valign="top">
-
-### Fun Fact
-
-I'd rather debug a flight controller at 2 AM than sleep through a crash log.
-
-</td>
-</tr>
-</table>
+- Working on computer vision: image enhancement, colorization, and segmentation with U-Net, DeepLab, TensorRT, and ONNX.
+- Deep interest in autonomous flight software: SLAM, Nav2, mission planning, and multi-robot coordination.
+- Building telemetry and sensor-fusion pipelines for multi-UAV systems.
+- Open to collaborations around ROS 2, Gazebo, MAVLink, fixed-wing UAVs, and ground control station architecture.
 
 ---
 
-## &#128736; Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -138,7 +93,7 @@ I'd rather debug a flight controller at 2 AM than sleep through a crash log.
 
 ---
 
-## &#128640; Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -210,7 +165,7 @@ Modular navigation package with AMCL localization, NavFn global planning, DWB lo
 
 ---
 
-## &#128202; GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -225,60 +180,13 @@ Modular navigation package with AMCL localization, NavFn global planning, DWB lo
 
 ---
 
-## &#128200; Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek1010006&bg_color=0d1117&color=c7d2fe&line=a78bfa&point=ffffff&area=true&hide_border=false&custom_title=Abhishek%20Kumar%20Singh%27s%20Contribution%20Graph" width="100%" alt="Abhishek Kumar Singh contribution graph" />
 
 </div>
-
----
-
-## &#127942; Top Repositories
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Tactical Ground Control Station
-
-Multi-UAV GCS for telemetry, mapping, mission planning, and real-time coordination.
-
-<a href="https://github.com/Abhishek1010006/Tactical-Ground-Control-Station"><b>Open Repository -></b></a>
-
-</td>
-<td width="50%" valign="top">
-
-### Mobile Manipulator Robot Simulation
-
-ROS 2 and Gazebo simulation for a mobile manipulator platform with robotic arm control.
-
-<a href="https://github.com/Abhishek1010006/Mobile-Manipulator-Robot-Simulation"><b>Open Repository -></b></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ROS 2 Autonomous Navigation
-
-Navigation stack with localization, planning, control, and Behavior Tree logic.
-
-<a href="https://github.com/Abhishek1010006/ros2-autonomous-navigation"><b>Open Repository -></b></a>
-
-</td>
-<td width="50%" valign="top">
-
-### V-Tail Pusher UAV
-
-Fixed-wing V-tail UAV build and testing project focused on autonomous mission readiness.
-
-<a href="https://github.com/Abhishek1010006/V-tail-pusher-UAV-"><b>Open Repository -></b></a>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -291,3 +199,6 @@ Fixed-wing V-tail UAV build and testing project focused on autonomous mission re
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,55:1f2937,100:111827&height=95&section=footer" width="100%" alt="Footer" />
 
 </div>
+
+
+
