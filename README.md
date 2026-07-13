@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./outputs/assets/profile-header-dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="./outputs/assets/profile-header-light.png" />
+  <source media="(prefers-color-scheme: dark)" srcset="./outputs/assets/profile-header-dark_1.png" />
+  <source media="(prefers-color-scheme: light)" srcset="./outputs/assets/profile-header-light_1.png" />
   <img src="./outputs/assets/profile-header-dark.png" width="100%" alt="Abhishek Kumar Singh - Robotics, UAV Systems, and Computer Vision" />
 </picture>
 <a href="https://www.linkedin.com/in/abhishek-kumar-singh1006"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
