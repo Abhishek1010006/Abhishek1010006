@@ -1,0 +1,152 @@
+<svg width="1701" height="925" viewBox="0 0 1701 925" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070a14"/>
+      <stop offset="55%" stop-color="#0b1020"/>
+      <stop offset="100%" stop-color="#0a0e1c"/>
+    </linearGradient>
+    <linearGradient id="underline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4f7cff"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3b6bff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#3b6bff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPurple" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <font-face font-family="Arial"/>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1701" height="925" fill="url(#bgGrad)"/>
+
+  <!-- Ambient glows -->
+  <circle cx="230" cy="410" r="260" fill="url(#glowBlue)"/>
+  <circle cx="1490" cy="430" r="260" fill="url(#glowPurple)"/>
+
+  <!-- Dot grid corners -->
+  <g fill="#2a3352" opacity="0.7">
+    <g id="dotsTL">
+      <!-- generated grid -->
+    </g>
+  </g>
+
+  <!-- corner frame lines -->
+  <path d="M 0 150 L 30 120 L 610 120" stroke="#39456e" stroke-width="2" fill="none" opacity="0.8"/>
+  <path d="M 1701 775 L 1671 805 L 1090 805" stroke="#39456e" stroke-width="2" fill="none" opacity="0.8"/>
+  <path d="M 1701 145 L 1550 300" stroke="#39456e" stroke-width="1.5" fill="none" opacity="0.5"/>
+  <path d="M 0 780 L 150 630" stroke="#39456e" stroke-width="1.5" fill="none" opacity="0.5"/>
+
+  <!-- dot grid pattern top-left and bottom-right -->
+  <g fill="#31406e" opacity="0.6">
+    <!-- top-left dots: 7 cols x 5 rows -->
+    <g transform="translate(35,185)">
+      <!-- rows -->
+    </g>
+  </g>
+
+  <g fill="#31406e" opacity="0.55">
+    <!-- programmatic dot grids inserted below -->
+  </g>
+
+  <!-- Dot grid top-left -->
+  <g fill="#33417a" opacity="0.65">
+    <circle cx="35" cy="185" r="3"/><circle cx="70" cy="185" r="3"/><circle cx="105" cy="185" r="3"/><circle cx="140" cy="185" r="3"/><circle cx="175" cy="185" r="3"/><circle cx="210" cy="185" r="3"/>
+    <circle cx="35" cy="215" r="3"/><circle cx="70" cy="215" r="3"/><circle cx="105" cy="215" r="3"/><circle cx="140" cy="215" r="3"/><circle cx="175" cy="215" r="3"/><circle cx="210" cy="215" r="3"/>
+    <circle cx="35" cy="245" r="3"/><circle cx="70" cy="245" r="3"/><circle cx="105" cy="245" r="3"/><circle cx="140" cy="245" r="3"/><circle cx="175" cy="245" r="3"/><circle cx="210" cy="245" r="3"/>
+    <circle cx="35" cy="275" r="3"/><circle cx="70" cy="275" r="3"/><circle cx="105" cy="275" r="3"/><circle cx="140" cy="275" r="3"/><circle cx="175" cy="275" r="3"/><circle cx="210" cy="275" r="3"/>
+  </g>
+
+  <!-- Dot grid bottom-right -->
+  <g fill="#33417a" opacity="0.65">
+    <circle cx="1491" cy="650" r="3"/><circle cx="1526" cy="650" r="3"/><circle cx="1561" cy="650" r="3"/><circle cx="1596" cy="650" r="3"/><circle cx="1631" cy="650" r="3"/><circle cx="1666" cy="650" r="3"/>
+    <circle cx="1491" cy="680" r="3"/><circle cx="1526" cy="680" r="3"/><circle cx="1561" cy="680" r="3"/><circle cx="1596" cy="680" r="3"/><circle cx="1631" cy="680" r="3"/><circle cx="1666" cy="680" r="3"/>
+    <circle cx="1491" cy="710" r="3"/><circle cx="1526" cy="710" r="3"/><circle cx="1561" cy="710" r="3"/><circle cx="1596" cy="710" r="3"/><circle cx="1631" cy="710" r="3"/><circle cx="1666" cy="710" r="3"/>
+    <circle cx="1491" cy="740" r="3"/><circle cx="1526" cy="740" r="3"/><circle cx="1561" cy="740" r="3"/><circle cx="1596" cy="740" r="3"/><circle cx="1631" cy="740" r="3"/><circle cx="1666" cy="740" r="3"/>
+  </g>
+
+  <!-- Left drone icon -->
+  <g transform="translate(230,415)" stroke="#5b6b9e" stroke-width="2.5" fill="none">
+    <line x1="0" y1="0" x2="-65" y2="-65"/>
+    <line x1="0" y1="0" x2="65" y2="-65"/>
+    <line x1="0" y1="0" x2="-65" y2="65"/>
+    <line x1="0" y1="0" x2="65" y2="65"/>
+    <circle cx="-65" cy="-65" r="24" stroke="#4f7cff" fill="#0b1020"/>
+    <circle cx="65" cy="-65" r="24" stroke="#4f7cff" fill="#0b1020"/>
+    <circle cx="-65" cy="65" r="24" stroke="#4f7cff" fill="#0b1020"/>
+    <circle cx="65" cy="65" r="24" stroke="#4f7cff" fill="#0b1020"/>
+    <circle cx="-65" cy="-65" r="6" fill="#e8ecfb" stroke="none"/>
+    <circle cx="65" cy="-65" r="6" fill="#e8ecfb" stroke="none"/>
+    <circle cx="-65" cy="65" r="6" fill="#e8ecfb" stroke="none"/>
+    <circle cx="65" cy="65" r="6" fill="#e8ecfb" stroke="none"/>
+    <circle cx="0" cy="0" r="20" fill="#0b1020" stroke="#4f7cff" stroke-width="3"/>
+    <circle cx="0" cy="0" r="7" fill="#4f7cff" stroke="none"/>
+  </g>
+
+  <!-- Right target/scan icon -->
+  <g transform="translate(1470,420)">
+    <path d="M -60 -70 L -80 -70 L -80 -50" stroke="#5b6b9e" stroke-width="2.5" fill="none"/>
+    <path d="M 60 -70 L 80 -70 L 80 -50" stroke="#5b6b9e" stroke-width="2.5" fill="none"/>
+    <path d="M -60 70 L -80 70 L -80 50" stroke="#5b6b9e" stroke-width="2.5" fill="none"/>
+    <path d="M 60 70 L 80 70 L 80 50" stroke="#5b6b9e" stroke-width="2.5" fill="none"/>
+    <circle cx="0" cy="0" r="42" stroke="#3a4a80" stroke-width="2" fill="none"/>
+    <circle cx="0" cy="0" r="26" stroke="#4f7cff" stroke-width="2" fill="none"/>
+    <circle cx="0" cy="0" r="9" fill="#8b5cf6"/>
+    <line x1="-120" y1="0" x2="-95" y2="0" stroke="#3a4a80" stroke-width="2"/>
+    <line x1="95" y1="0" x2="120" y2="0" stroke="#3a4a80" stroke-width="2"/>
+  </g>
+
+  <!-- Name -->
+  <text x="850" y="425" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="800" fill="#f3f5fc" text-anchor="middle" letter-spacing="1">Abhishek Kumar Singh</text>
+
+  <!-- underline -->
+  <rect x="775" y="463" width="150" height="6" rx="3" fill="url(#underline)"/>
+
+  <!-- Tagline -->
+  <text x="850" y="522" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#a9b3d6" text-anchor="middle">Robotics &#160;|&#160; UAV Systems &#160;|&#160; Computer Vision</text>
+
+  <!-- Badges -->
+  <g font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="600">
+    <!-- ROS 2 -->
+    <g transform="translate(400,600)">
+      <rect x="0" y="0" width="185" height="64" rx="14" fill="#0e1428" stroke="#3355c9" stroke-width="1.5"/>
+      <circle cx="34" cy="32" r="4.5" fill="#5b8bff"/><circle cx="48" cy="24" r="4.5" fill="#5b8bff"/><circle cx="60" cy="32" r="4.5" fill="#5b8bff"/><circle cx="48" cy="40" r="4.5" fill="#5b8bff"/>
+      <text x="85" y="41" fill="#7ea1ff">ROS 2</text>
+    </g>
+    <!-- Nav2 -->
+    <g transform="translate(605,600)">
+      <rect x="0" y="0" width="160" height="64" rx="14" fill="#0e1f1a" stroke="#1f9b6f" stroke-width="1.5"/>
+      <path d="M22 42 L38 20 L34 42 Z" fill="#3ddb9a"/>
+      <text x="70" y="41" fill="#3ddb9a">Nav2</text>
+    </g>
+    <!-- OpenCV -->
+    <g transform="translate(785,600)">
+      <rect x="0" y="0" width="205" height="64" rx="14" fill="#181229" stroke="#7c53d6" stroke-width="1.5"/>
+      <circle cx="35" cy="32" r="11" fill="none" stroke="#a480f0" stroke-width="3"/>
+      <circle cx="35" cy="32" r="4" fill="#a480f0"/>
+      <text x="70" y="41" fill="#b79bf5">OpenCV</text>
+    </g>
+    <!-- MAVLink -->
+    <g transform="translate(1010,600)">
+      <rect x="0" y="0" width="200" height="64" rx="14" fill="#151a29" stroke="#5b6b9e" stroke-width="1.5"/>
+      <path d="M20 40 L40 22 L60 40 L48 40 L48 30 L32 30 L32 40 Z" fill="#c7cfec"/>
+      <text x="80" y="41" fill="#c7cfec">MAVLink</text>
+    </g>
+    <!-- TensorRT -->
+    <g transform="translate(1230,600)">
+      <rect x="0" y="0" width="210" height="64" rx="14" fill="#0a1f1a" stroke="#1fbf8f" stroke-width="1.5"/>
+      <circle cx="35" cy="32" r="12" fill="none" stroke="#39e0b0" stroke-width="2.5"/>
+      <circle cx="35" cy="22" r="3" fill="#39e0b0"/><circle cx="45" cy="38" r="3" fill="#39e0b0"/><circle cx="25" cy="38" r="3" fill="#39e0b0"/>
+      <text x="70" y="41" fill="#39e0b0">TensorRT</text>
+    </g>
+    <!-- ONNX -->
+    <g transform="translate(1460,600)">
+      <rect x="0" y="0" width="160" height="64" rx="14" fill="#12151f" stroke="#5b6b9e" stroke-width="1.5"/>
+      <rect x="24" y="20" width="22" height="22" fill="none" stroke="#c7cfec" stroke-width="2.5" transform="rotate(20 35 31)"/>
+      <text x="65" y="41" fill="#c7cfec">ONNX</text>
+    </g>
+  </g>
+</svg>
