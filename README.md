@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:1f2937,100:334155&height=190&section=header&text=Abhishek%20Kumar%20Singh&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Robotics%20%7C%20UAV%20Systems%20%7C%20Computer%20Vision&descSize=17&descAlignY=58" width="100%" alt="Abhishek Kumar Singh" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=135&section=header&text=Abhishek%20Kumar%20Singh&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Robotics%20%7C%20UAV%20Systems%20%7C%20Computer%20Vision&descSize=15&descAlignY=62" width="100%" alt="Abhishek Kumar Singh" />
 
 <br />
 
@@ -9,10 +9,12 @@
 <a href="https://github.com/Abhishek1010006"><img src="https://img.shields.io/github/followers/Abhishek1010006?label=FOLLOW&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" /></a>
 <a href="https://komarev.com/ghpvc/?username=Abhishek1010006"><img src="https://komarev.com/ghpvc/?username=Abhishek1010006&style=for-the-badge&label=PROFILE%20VIEWS&color=6366f1" alt="Profile views" /></a>
 
-<br /><br />
+<br />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ros,opencv,linux,git" height="34" alt="Python, C++, JavaScript, ROS, OpenCV, Linux, Git" />
+<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=800&color=60A5FA&center=true&vCenter=true&width=900&height=60&lines=FPV+Drone+Developer+%26+Embedded+Systems+Builder;ROS+2+%7C+Gazebo+%7C+Autonomous+Navigation;Ground+Control+Stations+for+Multi-UAV+Operations;Computer+Vision+for+Autonomous+Perception" alt="Typing animation" />
-a
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=800&color=60A5FA&center=true&vCenter=true&width=860&height=40&lines=FPV+Drone+Developer+%26+Embedded+Systems+Builder;ROS+2+%7C+Gazebo+%7C+Autonomous+Navigation;Ground+Control+Stations+for+Multi-UAV+Operations;Computer+Vision+for+Autonomous+Perception" alt="Typing animation" />
+
 </div>
 
 ---
@@ -176,17 +178,16 @@ Modular navigation package with AMCL localization, NavFn global planning, DWB lo
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%" alt="Abhishek1010006 GitHub stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&card_width=540&line_height=32" width="100%" height="245" alt="Abhishek1010006 GitHub stats" />
 </td>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%" alt="Most used languages" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=540" width="100%" height="245" alt="Most used languages" />
 </td>
 </tr>
 </table>
 
 <br />
-
-<img src="https://streak-stats.demolab.com/?user=Abhishek1010006&theme=dark&hide_border=false" width="58%" alt="GitHub streak stats" />
+<img src="https://streak-stats.demolab.com/?user=Abhishek1010006&theme=dark&hide_border=false" width="50%" alt="GitHub streak stats" />
 
 <!-- GitHub Trends LOC card
 This service requires signup first: https://api.githubtrends.io/auth/signup/public
@@ -218,16 +219,4 @@ After signup, uncomment this block if the image endpoint renders for your accoun
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,55:1f2937,100:111827&height=95&section=footer" width="100%" alt="Footer" />
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
 
