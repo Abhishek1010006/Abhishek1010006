@@ -153,7 +153,9 @@ Modular navigation package — AMCL localization, NavFn global planning, DWB loc
 
 <div align="center">
 
-<img src="https://github-profile-trophy-winning.vercel.app/?username=Abhishek1010006&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Repositories&query=public_repos&url=https://api.github.com/users/Abhishek1010006&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/Abhishek1010006?style=for-the-badge&color=yellow&logo=github&label=Stars" />
+<img src="https://img.shields.io/github/followers/Abhishek1010006?style=for-the-badge&color=blue&logo=github&label=Followers" />
 
 </div>
 
@@ -163,22 +165,8 @@ Modular navigation package — AMCL localization, NavFn global planning, DWB loc
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=Abhishek1010006&theme=tokyonight&hide_border=true&cache_seconds=86400" width="65%"/>
-
-<br/><br/>
-
-<a href="https://github-stats-extended.vercel.app/api?username=Abhishek1010006&show_icons=true&theme=tokyonight&hide_border=true"><img src="https://img.shields.io/badge/GitHub%20Stats-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=Abhishek1010006&layout=compact&theme=tokyonight&hide_border=true"><img src="https://img.shields.io/badge/Top%20Languages-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</div>
-
-<br/>
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek1010006&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<a href="https://github.com/Abhishek1010006"><img src="https://img.shields.io/badge/GitHub%20Stats-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Abhishek1010006?tab=repositories"><img src="https://img.shields.io/badge/Top%20Languages-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
