@@ -199,6 +199,16 @@ After signup, uncomment this block if the image endpoint renders for your accoun
 
 ---
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishek1010006/Abhishek1010006/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhishek1010006/Abhishek1010006/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Abhishek1010006/Abhishek1010006/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
 ## Contribution Graph
 
 <div align="center">
