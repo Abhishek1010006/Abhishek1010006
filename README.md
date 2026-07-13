@@ -40,14 +40,14 @@ class AbhishekKumarSingh:
 <tr>
 <td width="50%" valign="top">
 
-- **Working on computer vision** â€” image enhancement, colorization, and segmentation with U-Net, DeepLab, TensorRT, and ONNX.
-- **Deep interest in autonomous flight** â€” SLAM, Nav2, mission planning, and multi-robot coordination.
+- **Working on computer vision** image enhancement, colorization, and segmentation with U-Net, DeepLab, TensorRT, and ONNX.
+- **Deep interest in autonomous flight** SLAM, Nav2, mission planning, and multi-robot coordination.
 
 </td>
 <td width="50%" valign="top">
 
-- **Building UAV systems** â€” telemetry, sensor fusion, fixed-wing platforms, and ground control station architecture.
-- **Open to collaborations** â€” ROS 2, Gazebo, MAVLink, autonomous navigation, and multi-UAV software.
+- **Building UAV systems**  telemetry, sensor fusion, fixed-wing platforms, and ground control station architecture.
+- **Open to collaborations** ROS 2, Gazebo, MAVLink, autonomous navigation, and multi-UAV software.
 
 </td>
 </tr>
