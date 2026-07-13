@@ -9,11 +9,10 @@
 <a href="mailto:abhishekkumarsngh000@gmail.com"><img src="https://img.shields.io/badge/CONNECT-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Abhishek1010006"><img src="https://img.shields.io/github/followers/Abhishek1010006?label=FOLLOW&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" /></a>
 <a href="https://komarev.com/ghpvc/?username=Abhishek1010006"><img src="https://komarev.com/ghpvc/?username=Abhishek1010006&style=for-the-badge&label=PROFILE%20VIEWS&color=6366f1" alt="Profile views" /></a>
-
+<br/>
 <br />
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ros,opencv,linux,git" height="34" alt="Python, C++, JavaScript, ROS, OpenCV, Linux, Git" />
 <br />
-</br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=800&color=60A5FA&center=true&vCenter=true&width=860&height=40&lines=FPV+Drone+Developer+%26+Embedded+Systems+Builder;ROS+2+%7C+Gazebo+%7C+Autonomous+Navigation;Ground+Control+Stations+for+Multi-UAV+Operations;Computer+Vision+for+Autonomous+Perception" alt="Typing animation" />
 
