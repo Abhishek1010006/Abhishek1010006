@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=135&section=header&text=Abhishek%20Kumar%20Singh&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Robotics%20%7C%20UAV%20Systems%20%7C%20Computer%20Vision&descSize=15&descAlignY=62" width="100%" alt="Abhishek Kumar Singh" />
+<img src="./assets/profile-header.svg" width="100%" alt="Abhishek Kumar Singh - Robotics, UAV Systems, and Computer Vision" />
 
 <br />
 
@@ -177,11 +177,11 @@ Modular navigation package with AMCL localization, NavFn global planning, DWB lo
 
 <table>
 <tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&card_width=540&line_height=32" width="100%" height="245" alt="Abhishek1010006 GitHub stats" />
+<td width="50%" align="center" valign="top">
+<img src="https://github-readme-stats.shion.dev/api?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&card_width=560&line_height=30" width="100%" alt="Abhishek1010006 GitHub stats" />
 </td>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=540" width="100%" height="245" alt="Most used languages" />
+<td width="50%" align="center" valign="top">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6&card_width=560" width="100%" alt="Most used languages" />
 </td>
 </tr>
 </table>
@@ -219,4 +219,3 @@ After signup, uncomment this block if the image endpoint renders for your accoun
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,55:1f2937,100:111827&height=95&section=footer" width="100%" alt="Footer" />
 
 </div>
-
