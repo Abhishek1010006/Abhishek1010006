@@ -22,7 +22,6 @@
 ---
 
 ## 💫 About Me
-
 <table>
 <tr>
 <td width="100%" valign="top">
@@ -101,7 +100,6 @@ I'd rather debug a flight controller at 2 AM than sleep through a crash log.
 ---
 
 ## 🌐 Socials
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/abhishek-kumar-singh1006"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -113,7 +111,6 @@ I'd rather debug a flight controller at 2 AM than sleep through a crash log.
 ---
 
 ## 🛠️ Tech Arsenal
-
 <div align="center">
 
 ### Languages & Markup
@@ -155,7 +152,6 @@ I'd rather debug a flight controller at 2 AM than sleep through a crash log.
 ---
 
 ## 🚀 Featured Projects
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -227,7 +223,6 @@ Modular navigation package with AMCL localization, NavFn global planning, DWB lo
 ---
 
 ## 📌 Current Build Board
-
 <table>
 <tr>
 <th align="left">Project</th>
@@ -259,30 +254,29 @@ Modular navigation package with AMCL localization, NavFn global planning, DWB lo
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%" alt="Abhishek1010006 GitHub stats" />
-</td>
-<td width="50%" align="center">
-<img src="https://streak-stats.demolab.com/?user=Abhishek1010006&theme=dark&hide_border=false" width="100%" alt="GitHub streak stats" />
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%" alt="Top languages" />
-</td>
-<td width="50%" align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="49%" alt="Abhishek1010006 GitHub stats" />
+<img src="https://streak-stats.demolab.com/?user=Abhishek1010006&theme=dark&hide_border=false" width="49%" alt="GitHub streak stats" />
+
+<br /><br />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="42%" alt="Most used languages" />
+
+<br /><br />
 
 ### 🔝 Top Contributed Repo
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Abhishek1010006&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%" alt="Top contributed repositories" />
-</td>
-</tr>
-</table>
+<img src="https://github-contributor-stats.vercel.app/api?username=Abhishek1010006&limit=5&theme=dark&combine_all_yearly_contributions=true" width="72%" alt="Top contributed repositories" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek1010006&bg_color=0d1117&color=c7d2fe&line=a78bfa&point=ffffff&area=true&hide_border=false&custom_title=Abhishek%20Kumar%20Singh%27s%20Contribution%20Graph" width="100%" alt="Abhishek Kumar Singh contribution graph" />
 
 </div>
 
@@ -297,5 +291,8 @@ Modular navigation package with AMCL localization, NavFn global planning, DWB lo
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,55:1f2937,100:111827&height=95&section=footer" width="100%" alt="Footer" />
 
 </div>
+
+
+
 
 
