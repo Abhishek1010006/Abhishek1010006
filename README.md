@@ -153,7 +153,7 @@ Modular navigation package — AMCL localization, NavFn global planning, DWB loc
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Repositories&query=public_repos&url=https://api.github.com/users/Abhishek1010006&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Repositories&query=%24.public_repos&url=https://api.github.com/users/Abhishek1010006&style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/github/stars/Abhishek1010006?style=for-the-badge&color=yellow&logo=github&label=Stars" />
 <img src="https://img.shields.io/github/followers/Abhishek1010006?style=for-the-badge&color=blue&logo=github&label=Followers" />
 
