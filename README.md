@@ -40,14 +40,14 @@ class AbhishekKumarSingh:
 <tr>
 <td width="50%" valign="top">
 
-- **Working on computer vision** — image enhancement, colorization, and segmentation with U-Net, DeepLab, TensorRT, and ONNX.
-- **Deep interest in autonomous flight** — SLAM, Nav2, mission planning, and multi-robot coordination.
+- **Working on computer vision** â€” image enhancement, colorization, and segmentation with U-Net, DeepLab, TensorRT, and ONNX.
+- **Deep interest in autonomous flight** â€” SLAM, Nav2, mission planning, and multi-robot coordination.
 
 </td>
 <td width="50%" valign="top">
 
-- **Building UAV systems** — telemetry, sensor fusion, fixed-wing platforms, and ground control station architecture.
-- **Open to collaborations** — ROS 2, Gazebo, MAVLink, autonomous navigation, and multi-UAV software.
+- **Building UAV systems** â€” telemetry, sensor fusion, fixed-wing platforms, and ground control station architecture.
+- **Open to collaborations** â€” ROS 2, Gazebo, MAVLink, autonomous navigation, and multi-UAV software.
 
 </td>
 </tr>
@@ -179,6 +179,12 @@ Modular navigation package with AMCL localization, NavFn global planning, DWB lo
 <br /><br />
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="42%" alt="Most used languages" />
+<!-- GitHub Trends LOC card
+This service requires signup first: https://api.githubtrends.io/auth/signup/public
+After signup, uncomment this block if the image endpoint renders for your account.
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Abhishek1010006/langs)](https://githubtrends.io)
+-->
 
 </div>
 
@@ -203,6 +209,7 @@ Modular navigation package with AMCL localization, NavFn global planning, DWB lo
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,55:1f2937,100:111827&height=95&section=footer" width="100%" alt="Footer" />
 
 </div>
+
 
 
 
