@@ -19,10 +19,6 @@
 
 ## About Me
 
-<table>
-<tr>
-<td width="100%" valign="top">
-
 ```python
 class AbhishekKumarSingh:
     def __init__(self):
@@ -40,14 +36,22 @@ class AbhishekKumarSingh:
         print("Let's build something that flies.")
 ```
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- **Working on computer vision** — image enhancement, colorization, and segmentation with U-Net, DeepLab, TensorRT, and ONNX.
+- **Deep interest in autonomous flight** — SLAM, Nav2, mission planning, and multi-robot coordination.
+
+</td>
+<td width="50%" valign="top">
+
+- **Building UAV systems** — telemetry, sensor fusion, fixed-wing platforms, and ground control station architecture.
+- **Open to collaborations** — ROS 2, Gazebo, MAVLink, autonomous navigation, and multi-UAV software.
+
 </td>
 </tr>
 </table>
-
-- Working on computer vision: image enhancement, colorization, and segmentation with U-Net, DeepLab, TensorRT, and ONNX.
-- Deep interest in autonomous flight software: SLAM, Nav2, mission planning, and multi-robot coordination.
-- Building telemetry and sensor-fusion pipelines for multi-UAV systems.
-- Open to collaborations around ROS 2, Gazebo, MAVLink, fixed-wing UAVs, and ground control station architecture.
 
 ---
 
@@ -199,6 +203,9 @@ Modular navigation package with AMCL localization, NavFn global planning, DWB lo
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,55:1f2937,100:111827&height=95&section=footer" width="100%" alt="Footer" />
 
 </div>
+
+
+
 
 
 
