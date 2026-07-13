@@ -11,6 +11,7 @@
 <br />
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ros,opencv,linux,git" height="34" alt="Python, C++, JavaScript, ROS, OpenCV, Linux, Git" />
 <br />
+</br?
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=800&color=60A5FA&center=true&vCenter=true&width=860&height=40&lines=FPV+Drone+Developer+%26+Embedded+Systems+Builder;ROS+2+%7C+Gazebo+%7C+Autonomous+Navigation;Ground+Control+Stations+for+Multi-UAV+Operations;Computer+Vision+for+Autonomous+Perception" alt="Typing animation" />
 
