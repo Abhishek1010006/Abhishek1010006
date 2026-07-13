@@ -1,15 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Abhishek%20Kumar%20Singh&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%7C%20UAV%20Systems%20%7C%20Computer%20Vision&descAlignY=58&descSize=18" width="100%" alt="Abhishek Kumar Singh - Robotics, UAV Systems, Computer Vision" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Abhishek%20Kumar%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Robotics%20%7C%20UAV%20Systems%20%7C%20Computer%20Vision&descAlignY=58&descSize=17" width="100%" alt="Abhishek Kumar Singh" />
 
 <a href="https://www.linkedin.com/in/abhishek-kumar-singh1006"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:abhishekkumarsngh000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Abhishek1010006"><img src="https://img.shields.io/github/followers/Abhishek1010006?label=Follow&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" /></a>
+<a href="https://github.com/Abhishek1010006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=Abhishek1010006&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&height=52&lines=Building+Ground+Control+Stations+for+UAV+Swarms;ROS+2+%7C+Gazebo+%7C+Autonomous+Navigation;FPV+Drone+Developer+%26+Embedded+Systems+Enthusiast;ISRO+BAH2026+Hackathon+%E2%80%94+Team+Suryavansh" alt="Typing animation" />
+<img src="https://img.shields.io/badge/ROS%202-Jazzy-22314E?style=flat-square" alt="ROS 2 Jazzy" />
+<img src="https://img.shields.io/badge/Gazebo-Simulation-4D6B53?style=flat-square" alt="Gazebo" />
+<img src="https://img.shields.io/badge/MAVLink-Telemetry-2F6F9F?style=flat-square" alt="MAVLink" />
+<img src="https://img.shields.io/badge/OpenCV-Perception-5C7AEA?style=flat-square" alt="OpenCV" />
+<img src="https://img.shields.io/badge/UAV%20Systems-Flight%20Software-B44C43?style=flat-square" alt="UAV Systems" />
 
 </div>
 
@@ -17,28 +21,30 @@
 
 ## About Me
 
+<table>
+<tr>
+<td width="100%" valign="top">
+
 ```python
 class AbhishekKumarSingh:
-    def __init__(self):
-        self.role = "CSE undergraduate at BIT Mesra"
-        self.focus = ["Robotics", "UAV systems", "Computer vision"]
-        self.current_builds = [
-            "Tactical Ground Control Station for multi-UAV swarm operations",
-            "V-tail pusher UAV for fixed-wing flight testing",
-            "Vision pipelines for enhancement, colorization, and segmentation",
-        ]
-        self.stack = ["ROS 2", "Gazebo", "Python", "MAVLink", "OpenCV"]
+    role = "CSE undergraduate at BIT Mesra"
+    focus = ["Robotics", "UAV systems", "Computer vision"]
+    building = [
+        "Tactical Ground Control Station for multi-UAV swarm operations",
+        "V-tail pusher UAV for fixed-wing flight testing",
+        "Vision pipelines for enhancement, colorization, and segmentation",
+    ]
+    stack = ["ROS 2", "Gazebo", "Python", "MAVLink", "OpenCV"]
 
-    def say_hi(self):
-        return "Let's build something that flies."
+    def mission(self):
+        return "Build systems that help machines fly themselves."
 ```
 
-I build robotics and UAV systems across the stack: simulation, autonomy, telemetry, ground control, embedded workflows, and computer vision. I like projects where software meets hardware and the result has to survive outside a perfect lab setup.
+I build robotics and UAV systems across simulation, autonomy, telemetry, ground control, embedded workflows, and computer vision. I like projects where the code has to meet real hardware and still behave when conditions get messy.
 
-- Currently working on computer vision for image enhancement, colorization, and segmentation with U-Net, DeepLab, ONNX, and TensorRT.
-- Open to collaboration on autonomous flight software, SLAM, Nav2, and multi-robot coordination.
-- Looking to improve sensor fusion and real-time telemetry pipelines for multi-UAV systems.
-- Ask me about ROS 2, Gazebo, MAVLink, fixed-wing UAV design, or ground control station architecture.
+</td>
+</tr>
+</table>
 
 ---
 
@@ -87,12 +93,33 @@ I build robotics and UAV systems across the stack: simulation, autonomy, telemet
 
 ## Current Work
 
-| Project | What it does | Status |
-|---|---|---|
-| **Tactical Ground Control Station** | Multi-UAV monitoring, mission planning, telemetry, and coordination | Complete |
-| **V-Tail Pusher UAV** | Fixed-wing V-tail pusher airframe build and flight testing | Complete |
-| **ROS 2 Navigation Stack** | AMCL, NavFn, DWB, Behavior Trees, and autonomous navigation | Complete |
-| **ISRO BAH2026 Hackathon** | Team Suryavansh project work | In progress |
+<table>
+<tr>
+<th align="left">Project</th>
+<th align="left">Description</th>
+<th align="center">Status</th>
+</tr>
+<tr>
+<td><b>Tactical Ground Control Station</b></td>
+<td>Multi-UAV monitoring, telemetry, mission planning, and coordination.</td>
+<td align="center"><b>Complete</b></td>
+</tr>
+<tr>
+<td><b>V-Tail Pusher UAV</b></td>
+<td>Fixed-wing V-tail pusher airframe build, tuning, and flight testing.</td>
+<td align="center"><b>Complete</b></td>
+</tr>
+<tr>
+<td><b>ROS 2 Navigation Stack</b></td>
+<td>AMCL localization, NavFn planning, DWB control, and Behavior Trees.</td>
+<td align="center"><b>Complete</b></td>
+</tr>
+<tr>
+<td><b>ISRO BAH2026 Hackathon</b></td>
+<td>Team Suryavansh project work around autonomous systems.</td>
+<td align="center"><b>Active</b></td>
+</tr>
+</table>
 
 ---
 
@@ -100,25 +127,20 @@ I build robotics and UAV systems across the stack: simulation, autonomy, telemet
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,bash" alt="Python, C++, JavaScript, Bash" />
-
-### Robotics, Vision & Simulation
-
-<img src="https://skillicons.dev/icons?i=ros,opencv" alt="ROS and OpenCV" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 <br />
+<img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
 <img src="https://img.shields.io/badge/Gazebo-000000?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" />
-<img src="https://img.shields.io/badge/RViz-2C5364?style=for-the-badge" alt="RViz" />
-<img src="https://img.shields.io/badge/Nav2-203A43?style=for-the-badge" alt="Nav2" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 <img src="https://img.shields.io/badge/MAVLink-0088CC?style=for-the-badge" alt="MAVLink" />
-
-### Flight, Tools & Platforms
-
+<br />
 <img src="https://img.shields.io/badge/ArduPilot-1D3557?style=for-the-badge" alt="ArduPilot" />
 <img src="https://img.shields.io/badge/Betaflight-FF6600?style=for-the-badge" alt="Betaflight" />
-<br />
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,electron,flask" alt="Linux, Ubuntu, Git, GitHub, Electron, Flask" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 </div>
 
@@ -128,50 +150,70 @@ I build robotics and UAV systems across the stack: simulation, autonomy, telemet
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Tactical Ground Control Station
+### Tactical GCS
 
-Full-stack ground control station for real-time multi-UAV monitoring and coordination, with mission planning, live telemetry, and offline mapping.
+Full-stack ground control station for real-time multi-UAV monitoring, telemetry, mission planning, and coordination.
 
-**Stack:** `Electron` `Python` `Flask` `MAVLink`
+<img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/MAVLink-0088CC?style=flat-square" alt="MAVLink" />
 
-[View repository](https://github.com/Abhishek1010006/Tactical-Ground-Control-Station)
+<br /><br />
 
-</td>
-<td width="50%" valign="top">
-
-### V-Tail Pusher UAV
-
-Design, build, and flight testing of a fixed-wing V-tail pusher UAV, including airframe configuration, servo mixing, and autonomous mission capability.
-
-**Stack:** `ArduPilot` `MAVLink` `Fixed-Wing`
-
-[View repository](https://github.com/Abhishek1010006/V-tail-pusher-UAV-)
+<a href="https://github.com/Abhishek1010006/Tactical-Ground-Control-Station"><b>View Project -></b></a>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Mobile Manipulator Simulation
+### Mobile Manipulator
 
 ROS 2 Jazzy and Gazebo simulation of a differential-drive mobile manipulator with a 2-DOF robotic arm.
 
-**Stack:** `ROS 2` `Gazebo` `URDF`
+<img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" />
+<img src="https://img.shields.io/badge/Gazebo-000000?style=flat-square&logo=gazebo&logoColor=white" alt="Gazebo" />
+<img src="https://img.shields.io/badge/URDF-6B7280?style=flat-square" alt="URDF" />
 
-[View repository](https://github.com/Abhishek1010006/Mobile-Manipulator-Robot-Simulation)
+<br /><br />
+
+<a href="https://github.com/Abhishek1010006/Mobile-Manipulator-Robot-Simulation"><b>View Project -></b></a>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Autonomous Navigation Stack
+### Autonomous Nav Stack
 
 Modular navigation package with AMCL localization, NavFn global planning, DWB local planning, and Behavior Tree logic.
 
-**Stack:** `ROS 2` `Nav2` `SLAM`
+<img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" />
+<img src="https://img.shields.io/badge/Nav2-203A43?style=flat-square" alt="Nav2" />
+<img src="https://img.shields.io/badge/SLAM-5C7AEA?style=flat-square" alt="SLAM" />
 
-[View repository](https://github.com/Abhishek1010006/ros2-autonomous-navigation)
+<br /><br />
+
+<a href="https://github.com/Abhishek1010006/ros2-autonomous-navigation"><b>View Project -></b></a>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### V-Tail Pusher UAV
+
+Fixed-wing V-tail pusher UAV project covering airframe configuration, servo mixing, autonomous mission capability, and flight testing.
+
+<img src="https://img.shields.io/badge/ArduPilot-1D3557?style=flat-square" alt="ArduPilot" />
+<img src="https://img.shields.io/badge/MAVLink-0088CC?style=flat-square" alt="MAVLink" />
+<img src="https://img.shields.io/badge/Fixed--Wing-B44C43?style=flat-square" alt="Fixed-Wing" />
+
+<br /><br />
+
+<a href="https://github.com/Abhishek1010006/V-tail-pusher-UAV-"><b>View Project -></b></a>
 
 </td>
 </tr>
@@ -179,53 +221,67 @@ Modular navigation package with AMCL localization, NavFn global planning, DWB lo
 
 ---
 
-## GitHub Analytics
+## Currently Learning
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek1010006&theme=tokyonight" width="96%" alt="GitHub profile summary" />
-
-<br /><br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishek1010006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek1010006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="Top languages" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek1010006&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="GitHub activity graph" />
+<img src="https://img.shields.io/badge/Deep%20Learning-Computer%20Vision-5C7AEA?style=for-the-badge" alt="Deep Learning" />
+<img src="https://img.shields.io/badge/Autonomous%20Navigation-Nav2%20%7C%20SLAM-203A43?style=for-the-badge" alt="Autonomous Navigation" />
+<img src="https://img.shields.io/badge/Sensor%20Fusion-Telemetry%20Pipelines-B44C43?style=for-the-badge" alt="Sensor Fusion" />
 
 </div>
 
 ---
 
-## Contribution Snake
+## GitHub Snapshot
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishek1010006/Abhishek1010006/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhishek1010006/Abhishek1010006/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Abhishek1010006/Abhishek1010006/output/github-contribution-grid-snake.svg" width="96%" />
-</picture>
+### Main Domain
 
-<br />
+<b>Robotics and UAV Systems</b>
 
-<sub>Generated daily by <code>.github/workflows/snake.yml</code> and published to the <code>output</code> branch.</sub>
+ROS 2, Gazebo, MAVLink, autonomy, telemetry, and ground control workflows.
 
-</div>
+</td>
+<td width="33%" align="center">
+
+### Current Direction
+
+<b>Autonomous Perception</b>
+
+Computer vision, segmentation, image enhancement, and edge deployment.
+
+</td>
+<td width="33%" align="center">
+
+### Collaboration
+
+<b>Flight Software</b>
+
+SLAM, Nav2, swarm coordination, GCS architecture, and real-time data systems.
+
+</td>
+</tr>
+</table>
 
 ---
 
+## Contact
+
 <div align="center">
+
+<a href="https://www.linkedin.com/in/abhishek-kumar-singh1006"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="mailto:abhishekkumarsngh000@gmail.com"><img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" /></a>
+
+<br /><br />
 
 <i>Building systems that help machines fly themselves, one node at a time.</i>
 
 <br /><br />
 
-<a href="https://www.linkedin.com/in/abhishek-kumar-singh1006"><img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's connect on LinkedIn" /></a>
-
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
