@@ -12,7 +12,7 @@
 <br /><br />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=800&color=60A5FA&center=true&vCenter=true&width=900&height=60&lines=FPV+Drone+Developer+%26+Embedded+Systems+Builder;ROS+2+%7C+Gazebo+%7C+Autonomous+Navigation;Ground+Control+Stations+for+Multi-UAV+Operations;Computer+Vision+for+Autonomous+Perception" alt="Typing animation" />
-
+a
 </div>
 
 ---
@@ -179,14 +179,14 @@ Modular navigation package with AMCL localization, NavFn global planning, DWB lo
 <img src="https://github-readme-stats.shion.dev/api?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%" alt="Abhishek1010006 GitHub stats" />
 </td>
 <td width="50%" align="center">
-<img src="https://streak-stats.demolab.com/?user=Abhishek1010006&theme=dark&hide_border=false" width="100%" alt="GitHub streak stats" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%" alt="Most used languages" />
 </td>
 </tr>
 </table>
 
 <br />
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="42%" alt="Most used languages" />
+<img src="https://streak-stats.demolab.com/?user=Abhishek1010006&theme=dark&hide_border=false" width="58%" alt="GitHub streak stats" />
 
 <!-- GitHub Trends LOC card
 This service requires signup first: https://api.githubtrends.io/auth/signup/public
@@ -218,6 +218,8 @@ After signup, uncomment this block if the image endpoint renders for your accoun
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,55:1f2937,100:111827&height=95&section=footer" width="100%" alt="Footer" />
 
 </div>
+
+
 
 
 
