@@ -2,18 +2,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abhishek%20Kumar%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%7C%20UAV%20Systems%20%7C%20Computer%20Vision&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://www.linkedin.com/in/abhishek-kumar-singh1006">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 <img src="https://komarev.com/ghpvc/?username=Abhishek1010006&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/badge/BIT%20Mesra-CSE%20Undergrad-blue?style=for-the-badge" />
+<a href="https://www.linkedin.com/in/abhishek-kumar-singh1006"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abhishekkumarsngh000@gmail.com"><img src="https://img.shields.io/badge/Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Abhishek1010006"><img src="https://img.shields.io/github/followers/Abhishek1010006?label=Follow&style=for-the-badge&logo=github&color=181717" /></a>
 
 <br/>
-</br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&height=50&lines=Building+Ground+Control+Stations+for+UAV+Swarms;ROS+2+%7C+Gazebo+%7C+Autonomous+Navigation;FPV+Drone+Developer+%26+Embedded+Systems+Enthusiast;ISRO+BAH2026+Hackathon+%E2%80%94+Team+Suryavansh" width="800" height="50" />
 
 </div>
+
+<br/>
 
 ## About Me
 
@@ -24,13 +24,17 @@
 
 <br/>
 
-<pre style="font-size:16px; line-height:1.6;">
-<code>Name: Abhishek Kumar Singh
-Institution: BIT Mesra, Ranchi
-Degree: Computer Science & Engineering (Undergraduate)
-Focus: Robotics, UAV Systems, Ground Control Software
-Currently Building: Tactical Ground Control Station (Multi-UAV Swarm Ops)
-Also Exploring: Competitive Programming, Embedded Systems, Autonomous Flight</code>
+<pre style="font-size:15px; line-height:1.6;">
+<code><span style="color:#c586c0;">class</span> <span style="color:#4ec9b0;">AbhishekKumarSingh</span>:
+    <span style="color:#c586c0;">def</span> <span style="color:#dcdcaa;">__init__</span>(<span style="color:#9cdcfe;">self</span>):
+        <span style="color:#9cdcfe;">self</span>.role     = <span style="color:#ce9178;">"CSE @ BIT Mesra | Robotics & UAV Systems"</span>
+        <span style="color:#9cdcfe;">self</span>.building = [<span style="color:#ce9178;">"Tactical Ground Control Station — multi-UAV swarm ops"</span>,
+                       <span style="color:#ce9178;">"V-Tail Pusher UAV — fixed-wing flight testing"</span>]
+        <span style="color:#9cdcfe;">self</span>.stack    = [<span style="color:#ce9178;">"ROS 2"</span>, <span style="color:#ce9178;">"Gazebo"</span>, <span style="color:#ce9178;">"Python"</span>, <span style="color:#ce9178;">"MAVLink"</span>, <span style="color:#ce9178;">"OpenCV"</span>]
+        <span style="color:#9cdcfe;">self</span>.philosophy = <span style="color:#ce9178;">"Fly first, optimize later."</span>
+
+    <span style="color:#c586c0;">def</span> <span style="color:#dcdcaa;">say_hi</span>(<span style="color:#9cdcfe;">self</span>):
+        <span style="color:#dcdcaa;">print</span>(<span style="color:#ce9178;">"Let's build something that flies."</span>)</code>
 </pre>
 
 <br/>
@@ -40,88 +44,55 @@ Also Exploring: Competitive Programming, Embedded Systems, Autonomous Flight</co
 </table>
 </div>
 
-## Areas of Interest
+<br/>
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Robotics & Simulation**
-- ROS 2 (Jazzy) & Gazebo simulation
-- Multi-robot systems & coordination
-- Autonomous navigation (Nav2, SLAM)
-
-**Drone Systems**
-- FPV drone development
-- MAVLink communication & mission planning
-- ArduPilot / Betaflight firmware
-
-</td>
-<td width="50%" valign="top">
-
-**Ground Control Stations**
-- Real-time telemetry visualization
-- Swarm command & coordination
-- Offline mission mapping
-
-**Computer Vision**
-- Image enhancement & colorization
-- Segmentation (U-Net, DeepLab)
-- Edge deployment (TensorRT/ONNX)
-
-</td>
-</tr>
-</table>
+Building production-grade ground control software for multi-UAV swarm coordination
+<br/><br/>
+Deep interest in autonomous flight — SLAM, Nav2, sensor fusion
+<br/><br/>
+Active builder — FPV drones, fixed-wing UAVs, embedded systems
+<br/><br/>
+Open to collaborations on robotics & UAV projects — reach out anytime
 
 </div>
 
-## Current Work
+<br/>
 
-<div align="center">
-
-| Project | Status |
-|---|---|
-| **Tactical Ground Control Station** — full-stack multi-UAV swarm GCS | 🟢 Completed |
-| **V-Tail Pusher UAV** — fixed-wing V-tail pusher build & flight testing | 🟢 Completed |
-| **ROS 2 Nav Stack** — AMCL, NavFn, DWB, Behavior Trees | 🟢 Completed |
-
-</div>
-
-
-## Tech Stack
+## Tech Arsenal
 
 <div align="center">
 
 **Languages**
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=python,cpp,js,bash" />
 
-<br/>
+<br/><br/>
 
 **Robotics & Simulation**
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=ros,opencv" />
 <img src="https://img.shields.io/badge/Gazebo-black?style=for-the-badge&logo=gazebo&logoColor=white" />
 <img src="https://img.shields.io/badge/RViz-black?style=for-the-badge" />
 
-<br/>
+<br/><br/>
 
 **Drone & Flight Systems**
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/MAVLink-0088CC?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ArduPilot-1D3557?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Betaflight-FF6600?style=for-the-badge" />
 
-<br/>
+<br/><br/>
 
 **Tools & Platforms**
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,electron,flask" />
 
 </div>
 
+<br/>
 
 ## Featured Projects
 
@@ -136,17 +107,17 @@ Full-stack Ground Control Station for real-time multi-UAV monitoring & coordinat
 
 `Electron` `Python` `Flask` `MAVLink`
 
-[**View Repo →**](https://github.com/Abhishek1010006/Tactical-Ground-Control-Station)
+[**View Project →**](https://github.com/Abhishek1010006/Tactical-Ground-Control-Station)
 
 </td>
 <td width="50%" valign="top">
 
 ### V-Tail Pusher UAV
-Design, build, and flight testing of a fixed-wing V-tail pusher UAV — airframe configuration, servo mixing, and autonomous mission capability.
+Design, build, and flight testing of a fixed-wing V-tail pusher UAV — airframe configuration, servo mixing, autonomous mission capability.
 
 `ArduPilot` `MAVLink` `Fixed-Wing`
 
-[**View Repo →**](https://github.com/Abhishek1010006/V-tail-pusher-UAV-)
+[**View Project →**](https://github.com/Abhishek1010006/V-tail-pusher-UAV-)
 
 </td>
 </tr>
@@ -158,7 +129,7 @@ ROS 2 Jazzy + Gazebo simulation of a differential-drive mobile manipulator with 
 
 `ROS 2` `Gazebo` `URDF`
 
-[**View Repo →**](https://github.com/Abhishek1010006/Mobile-Manipulator-Robot-Simulation)
+[**View Project →**](https://github.com/Abhishek1010006/Mobile-Manipulator-Robot-Simulation)
 
 </td>
 <td width="50%" valign="top">
@@ -168,7 +139,7 @@ Modular navigation package — AMCL localization, NavFn global planning, DWB loc
 
 `ROS 2` `Nav2` `SLAM`
 
-[**View Repo →**](https://github.com/Abhishek1010006/ros2-autonomous-navigation)
+[**View Project →**](https://github.com/Abhishek1010006/ros2-autonomous-navigation)
 
 </td>
 </tr>
@@ -178,40 +149,36 @@ Modular navigation package — AMCL localization, NavFn global planning, DWB loc
 
 <br/>
 
-## Currently Learning
+## Achievements
 
 <div align="center">
 
-![Nav2](https://img.shields.io/badge/Navigation2-Nav2-orange?style=flat-square)
-![CV](https://img.shields.io/badge/Computer%20Vision-blue?style=flat-square)
-![Autonomy](https://img.shields.io/badge/Autonomous%20Navigation-green?style=flat-square)
-![Swarm](https://img.shields.io/badge/Drone%20Swarm%20Systems-purple?style=flat-square)
-![MultiRobot](https://img.shields.io/badge/Multi--Robot%20Coordination-red?style=flat-square)
+<img src="https://github-profile-trophy.vercel.app/?username=Abhishek1010006&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
 <br/>
 
-## GitHub Statistics
+## GitHub Analytics
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
+<img src="https://github-readme-streak-stats.demolab.com/?user=Abhishek1010006&theme=tokyonight&hide_border=true&cache_seconds=86400" width="65%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishek1010006&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%"/>
+<br/><br/>
 
-</td>
-<td width="50%" valign="top" align="center">
+<a href="https://github-readme-stats.vercel.app/api?username=Abhishek1010006&show_icons=true&theme=tokyonight&hide_border=true"><img src="https://img.shields.io/badge/GitHub%20Stats-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek1010006&layout=compact&theme=tokyonight&hide_border=true"><img src="https://img.shields.io/badge/Top%20Languages-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=Abhishek1010006&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%"/>
+</div>
 
-</td>
-</tr>
-</table>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek1010006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="45%"/>
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek1010006&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -222,10 +189,10 @@ Modular navigation package — AMCL localization, NavFn global planning, DWB loc
 <div align="center">
 
 <a href="https://www.linkedin.com/in/abhishek-kumar-singh1006">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+ <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:abhishekkumarsngh000@gmail.com">
-  <img src="https://img.shields.io/badge/Connect%20on%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ <img src="https://img.shields.io/badge/Connect%20on%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
