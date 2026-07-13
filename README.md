@@ -1,27 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:1f2937,100:334155&height=170&section=header&text=Abhishek%20Kumar%20Singh&fontSize=38&fontColor=c7d2fe&fontAlignY=36&desc=Robotics%20%7C%20UAV%20Systems%20%7C%20Computer%20Vision&descSize=15&descAlignY=57" width="100%" alt="Abhishek Kumar Singh" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:1f2937,100:334155&height=190&section=header&text=Abhishek%20Kumar%20Singh&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Robotics%20%7C%20UAV%20Systems%20%7C%20Computer%20Vision&descSize=17&descAlignY=58" width="100%" alt="Abhishek Kumar Singh" />
 
 <br />
 
-<a href="https://komarev.com/ghpvc/?username=Abhishek1010006"><img src="https://komarev.com/ghpvc/?username=Abhishek1010006&style=flat-square&label=PROFILE%20VIEWS&color=6366f1" alt="Profile views" /></a>
-<a href="https://www.linkedin.com/in/abhishek-kumar-singh1006"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:abhishekkumarsngh000@gmail.com"><img src="https://img.shields.io/badge/CONNECT-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Abhishek1010006"><img src="https://img.shields.io/github/followers/Abhishek1010006?label=FOLLOW&style=flat-square&logo=github&color=7c3aed" alt="GitHub followers" /></a>
+<a href="https://www.linkedin.com/in/abhishek-kumar-singh1006"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:abhishekkumarsngh000@gmail.com"><img src="https://img.shields.io/badge/CONNECT-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Abhishek1010006"><img src="https://img.shields.io/github/followers/Abhishek1010006?label=FOLLOW&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" /></a>
+<a href="https://komarev.com/ghpvc/?username=Abhishek1010006"><img src="https://komarev.com/ghpvc/?username=Abhishek1010006&style=for-the-badge&label=PROFILE%20VIEWS&color=6366f1" alt="Profile views" /></a>
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/ROS%202-Jazzy-22314E?style=flat-square" alt="ROS 2 Jazzy" />
-<img src="https://img.shields.io/badge/Gazebo-Simulation-4D6B53?style=flat-square" alt="Gazebo" />
-<img src="https://img.shields.io/badge/MAVLink-Telemetry-2F6F9F?style=flat-square" alt="MAVLink" />
-<img src="https://img.shields.io/badge/OpenCV-Perception-5C7AEA?style=flat-square" alt="OpenCV" />
-<img src="https://img.shields.io/badge/UAV%20Systems-Flight%20Software-B44C43?style=flat-square" alt="UAV Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=800&color=60A5FA&center=true&vCenter=true&width=900&height=60&lines=FPV+Drone+Developer+%26+Embedded+Systems+Builder;ROS+2+%7C+Gazebo+%7C+Autonomous+Navigation;Ground+Control+Stations+for+Multi-UAV+Operations;Computer+Vision+for+Autonomous+Perception" alt="Typing animation" />
 
 </div>
 
 ---
 
-## 💫 About Me
+## &#128171; About Me
+
 <table>
 <tr>
 <td width="100%" valign="top">
@@ -99,18 +96,8 @@ I'd rather debug a flight controller at 2 AM than sleep through a crash log.
 
 ---
 
-## 🌐 Socials
-<div align="center">
+## &#128736; Tech Arsenal
 
-<a href="https://www.linkedin.com/in/abhishek-kumar-singh1006"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:abhishekkumarsngh000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Abhishek1010006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-</div>
-
----
-
-## 🛠️ Tech Arsenal
 <div align="center">
 
 ### Languages & Markup
@@ -151,7 +138,8 @@ I'd rather debug a flight controller at 2 AM than sleep through a crash log.
 
 ---
 
-## 🚀 Featured Projects
+## &#128640; Featured Projects
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -222,63 +210,75 @@ Modular navigation package with AMCL localization, NavFn global planning, DWB lo
 
 ---
 
-## 📌 Current Build Board
-<table>
-<tr>
-<th align="left">Project</th>
-<th align="left">Focus</th>
-<th align="center">Status</th>
-</tr>
-<tr>
-<td><b>Tactical GCS</b></td>
-<td>Multi-UAV telemetry, mapping, command, and coordination.</td>
-<td align="center">Complete</td>
-</tr>
-<tr>
-<td><b>V-Tail Pusher UAV</b></td>
-<td>Fixed-wing build, servo mixing, mission capability, and testing.</td>
-<td align="center">Complete</td>
-</tr>
-<tr>
-<td><b>ROS 2 Nav Stack</b></td>
-<td>AMCL, NavFn, DWB, Behavior Trees, and autonomous navigation.</td>
-<td align="center">Complete</td>
-</tr>
-<tr>
-<td><b>ISRO BAH2026</b></td>
-<td>Team Suryavansh autonomous systems work.</td>
-<td align="center">Active</td>
-</tr>
-</table>
+## &#128202; GitHub Analytics
 
----
-
-## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="49%" alt="Abhishek1010006 GitHub stats" />
-<img src="https://streak-stats.demolab.com/?user=Abhishek1010006&theme=dark&hide_border=false" width="49%" alt="GitHub streak stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" alt="Abhishek1010006 GitHub stats" />
+<img src="https://streak-stats.demolab.com/?user=Abhishek1010006&theme=dark&hide_border=false" width="48%" alt="GitHub streak stats" />
 
 <br /><br />
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="42%" alt="Most used languages" />
 
-<br /><br />
-
-### 🔝 Top Contributed Repo
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Abhishek1010006&limit=5&theme=dark&combine_all_yearly_contributions=true" width="72%" alt="Top contributed repositories" />
-
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## &#128200; Contribution Graph
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek1010006&bg_color=0d1117&color=c7d2fe&line=a78bfa&point=ffffff&area=true&hide_border=false&custom_title=Abhishek%20Kumar%20Singh%27s%20Contribution%20Graph" width="100%" alt="Abhishek Kumar Singh contribution graph" />
 
 </div>
+
+---
+
+## &#127942; Top Repositories
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Tactical Ground Control Station
+
+Multi-UAV GCS for telemetry, mapping, mission planning, and real-time coordination.
+
+<a href="https://github.com/Abhishek1010006/Tactical-Ground-Control-Station"><b>Open Repository -></b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### Mobile Manipulator Robot Simulation
+
+ROS 2 and Gazebo simulation for a mobile manipulator platform with robotic arm control.
+
+<a href="https://github.com/Abhishek1010006/Mobile-Manipulator-Robot-Simulation"><b>Open Repository -></b></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ROS 2 Autonomous Navigation
+
+Navigation stack with localization, planning, control, and Behavior Tree logic.
+
+<a href="https://github.com/Abhishek1010006/ros2-autonomous-navigation"><b>Open Repository -></b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### V-Tail Pusher UAV
+
+Fixed-wing V-tail UAV build and testing project focused on autonomous mission readiness.
+
+<a href="https://github.com/Abhishek1010006/V-tail-pusher-UAV-"><b>Open Repository -></b></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -291,8 +291,3 @@ Modular navigation package with AMCL localization, NavFn global planning, DWB lo
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,55:1f2937,100:111827&height=95&section=footer" width="100%" alt="Footer" />
 
 </div>
-
-
-
-
-
