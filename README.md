@@ -180,7 +180,7 @@ Modular navigation package with AMCL localization, NavFn global planning, DWB lo
 <img src="https://github-readme-stats.shion.dev/api?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&card_width=560&line_height=30" width="100%" alt="Abhishek1010006 GitHub stats" />
 </td>
 <td width="50%" align="center" valign="top">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=12&card_width=560" width="100%" alt="Most used languages" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abhishek1010006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=9&card_width=560" width="100%" alt="Most used languages" />
 </td>
 </tr>
 </table>
